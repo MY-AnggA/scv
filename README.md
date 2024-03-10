@@ -1,4 +1,4 @@
-#### udpkanyut
+#### udp custom
 ```
 wget https://raw.githubusercontent.com/MY-AnggA/Ga-Penting/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh && reboot
 ```
