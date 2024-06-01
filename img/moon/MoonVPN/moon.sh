@@ -705,7 +705,7 @@ clear
 }
 
 res11() {
-wget https://raw.githubusercontent.com/MoonPie-ID/papipu/main/img/moon/MoonVPN/limit/limit.sh && chmod +x limit.sh && ./limit.sh
+wget https://raw.githubusercontent.com/SatanTech/hm/main/limit/limit.sh && chmod +x limit.sh && ./limit.sh
 clear
 }
 
